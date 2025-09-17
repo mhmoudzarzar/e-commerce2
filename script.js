@@ -3,8 +3,8 @@
 let fragment = document.createDocumentFragment();
 let product = document.getElementById('product');
 
-import { Cart } from 'cart.js';
-let cart = new Cart();
+import { CreateProdectCart } from 'cart.js';
+let cart = new CreateProdectCart();
 cart.renderToCart();
 cart.getTotal();
 
