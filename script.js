@@ -3,7 +3,7 @@
 let fragment = document.createDocumentFragment();
 let product = document.getElementById('product');
 
-import { Cart } from 'script/cart.js';
+import { Cart } from 'cart.js';
 let cart = new Cart();
 cart.renderToCart();
 cart.getTotal();
@@ -11,7 +11,7 @@ cart.getTotal();
 /////////////////////////////////////////////
 export class Fetching {
   constructor() {
-    this.url = 'API/api.json';
+    this.url = 'api.json';
   }
 
   async cashing() {

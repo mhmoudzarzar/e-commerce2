@@ -1,5 +1,5 @@
-import { Cart } from '/script/cart.js';
-import { Fetching } from '/script/script.js';
+import { Cart } from 'cart.js';
+import { Fetching } from 'script.js';
 
 let cart = new Cart();
 
