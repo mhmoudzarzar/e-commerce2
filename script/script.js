@@ -3,7 +3,7 @@
 let fragment = document.createDocumentFragment();
 let product = document.getElementById('product');
 
-import { Cart } from '/script/cart.js';
+import { Cart } from 'script/cart.js';
 let cart = new Cart();
 cart.renderToCart();
 cart.getTotal();
@@ -11,7 +11,7 @@ cart.getTotal();
 /////////////////////////////////////////////
 export class Fetching {
   constructor() {
-    this.url = '/API/api.json';
+    this.url = 'API/api.json';
   }
 
   async cashing() {
@@ -50,7 +50,7 @@ export class Fetching {
       card.className = 'item';
       card.id = element.id;
       card.addEventListener('click', () => {
-        window.location.href = `/index/prodect.html?id=${card.id}`;
+        window.location.href = `prodect.html?id=${card.id}`;
       });
 
       card.appendChild(cardImg);
@@ -86,5 +86,5 @@ let mapIcon = document.getElementById('map-icon');
 
 
 mapIcon.addEventListener('click', () => {
-  window.location.href = `/index/location.html`;
+  window.location.href = `location.html`;
 });
