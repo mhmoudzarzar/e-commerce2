@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Casual Men's Shirt",
+    "description": "Comfortable and stylish men's casual shirt suitable for everyday wear.",
+    "price": 52.9,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1521334884684-d80222895322?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Elegant Women's Dress",
+    "description": "Beautiful and elegant dress perfect for special occasions.",
+    "price": 89.5,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Kids' Running Shoes",
+    "description": "Durable and comfortable running shoes for kids.",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Leather Wallet",
+    "description": "Premium quality leather wallet with multiple compartments.",
+    "price": 25.0,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1555529669-4976d0e4e28a?auto=format&fit=crop&w=500&q=60",
+    "in_stock": false,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Sports Watch",
+    "description": "Water-resistant sports watch with stopwatch and timer.",
+    "price": 79.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1518544775067-7a89bcd1f3c6?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Women's Handbag",
+    "description": "Stylish handbag made from genuine leather.",
+    "price": 65.0,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Men's Formal Shoes",
+    "description": "Classic men's formal shoes for office and events.",
+    "price": 99.95,
+    "currency": "USD",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "name": "Kids' Backpack",
+    "description": "Colorful backpack suitable for school and outdoor activities.",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Headphones",
+    "description": "Wireless Bluetooth headphones with noise cancellation.",
+    "price": 120.0,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Men's Hoodie",
+    "description": "Warm and comfortable hoodie for casual wear.",
+    "price": 45.5,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1520975927655-7b37b4b57d6e?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Women's Sneakers",
+    "description": "Lightweight and stylish sneakers for everyday use.",
+    "price": 55.0,
+    "currency": "USD",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1528701800489-5f4e74bcfc88?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Smartphone Case",
+    "description": "Protective case for smartphones with shock absorption.",
+    "price": 15.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "name": "Digital Camera",
+    "description": "Compact digital camera with high resolution and zoom.",
+    "price": 199.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962cc7be3b?auto=format&fit=crop&w=500&q=60",
+    "in_stock": false,
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Men's Jeans",
+    "description": "Durable denim jeans with a comfortable fit.",
+    "price": 60.0,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "name": "Women's Sunglasses",
+    "description": "UV protection sunglasses with stylish frames.",
+    "price": 35.0,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "name": "Kids' T-shirt",
+    "description": "Soft cotton T-shirt with colorful prints.",
+    "price": 18.5,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "price": 25.0,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "name": "Leather Belt",
+    "description": "Genuine leather belt with classic buckle.",
+    "price": 20.0,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "name": "Running Shorts",
+    "description": "Lightweight and breathable shorts for running.",
+    "price": 30.0,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "name": "Smartwatch",
+    "description": "Smartwatch with fitness tracking and notifications.",
+    "price": 150.0,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=500&q=60",
+    "in_stock": true,
+    "rating": 4.7
+  }
+]

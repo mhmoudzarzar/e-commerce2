@@ -1,0 +1,101 @@
+
+[
+  {
+    "id": 1,
+    "name": "Modern Light Blue Chair",
+    "description": "Comfortable modern chair with wooden legs, ideal for living rooms or offices.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Furniture",
+    "image": "/product_17.jpg",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Elegant Black Sports Shoe",
+    "description": "Stylish and comfortable black sports shoe, perfect for running or daily wear.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Shoes",
+    "image": "/pexels-athul-adhu-186900-684152.jpg",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Stylish Casual Sneakers",
+    "description": "Trendy sneakers designed for everyday comfort and style.",
+    "price": 101.29,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "/assets/products/shoe5.jpg",
+    "in_stock": false,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Classic Black Dress Shoes",
+    "description": "Elegant black shoes suitable for formal occasions and office wear.",
+    "price": 65.73,
+    "currency": "USD",
+    "category": "Shoes",
+    "image": "/assets/products/shoe4.jpg",
+    "in_stock": true,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Sporty Running Shoes",
+    "description": "Lightweight running shoes offering great support and comfort.",
+    "price": 58.84,
+    "currency": "USD",
+    "category": "Shoes",
+    "image": "/assets/products/shoe3.jpg",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Premium Leather Shoes",
+    "description": "High-quality leather shoes with a sleek design, perfect for formal and casual use.",
+    "price": 156.23,
+    "currency": "USD",
+    "category": "Shoes",
+    "image": "/assets/products/shoe1.jpg",
+    "in_stock": false,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Wooden Modern Armchair",
+    "description": "Comfortable armchair with wooden accents, perfect for home or office decor.",
+    "price": 190.48,
+    "currency": "USD",
+    "category": "Furniture",
+    "image": "/assets/products/shoe2.jpg",
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Luxury Upholstered Sofa",
+    "description": "Elegant upholstered sofa designed for comfort and style in living spaces.",
+    "price": 194.51,
+    "currency": "USD",
+    "category": "Furniture",
+    "image": "/product_8.jpg",
+    "in_stock": false,
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Casual Men's Shirt",
+    "description": "Comfortable and stylish men's casual shirt suitable for everyday wear.",
+    "price": 52.9,
+    "currency": "USD",
+    "category": "Clothing",
+    "image": "/product_4.jpg",
+    "in_stock": true,
+    "rating": 4.8
+  }]
