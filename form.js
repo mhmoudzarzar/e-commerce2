@@ -1,4 +1,4 @@
-import { Cart } from 'cart.js';
+import { Cart } from './cart.js';
 
 let cart = new Cart();
 let dropmenu = document.getElementById("dropmenu");
