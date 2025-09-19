@@ -1,14 +1,12 @@
-
 [
   {
     "id": 1,
     "name": "Modern Light Blue Chair",
-    "description":"Comfortable modern chair with wooden legs, ideal for living rooms or offices.",
-
+    "description": "Comfortable modern chair with wooden legs, ideal for living rooms or offices.",
     "price": 15,
     "currency": "USD",
     "category": "Furniture",
-    "image": "/assets/products/product_17.jpg",
+    "image": "./assets/products/product_17.jpg",
     "in_stock": true,
     "rating": 4.5
   },
@@ -19,73 +17,73 @@
     "price": 89.99,
     "currency": "USD",
     "category": "Shoes",
-    "image": "/assets/products/pexels-athul-adhu-186900-684152.jpg",
+    "image": "./assets/products/pexels-athul-adhu-186900-684152.jpg",
     "in_stock": true,
     "rating": 4.7
   },
   {
     "id": 3,
     "name": "Stylish Casual Sneakers",
-   "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
+    "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
     "price": 101.29,
     "currency": "USD",
     "category": "Electronics",
-    "image": "/assets/products/shoe5.jpg",
+    "image": "./assets/products/shoe5.jpg",
     "in_stock": false,
     "rating": 4.2
   },
   {
     "id": 4,
     "name": "Classic Black Dress Shoes",
-  "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
+    "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
     "price": 65.73,
     "currency": "USD",
     "category": "Shoes",
-    "image": "/assets/products/shoe4.jpg",
+    "image": "./assets/products/shoe4.jpg",
     "in_stock": true,
     "rating": 4.9
   },
   {
     "id": 5,
     "name": "Sporty Running Shoes",
-  "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
+    "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
     "price": 58.84,
     "currency": "USD",
     "category": "Shoes",
-    "image": "/assets/products/shoe3.jpg",
+    "image": "./assets/products/shoe3.jpg",
     "in_stock": true,
     "rating": 4.7
   },
   {
     "id": 6,
     "name": "Premium Leather Shoes",
-   "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
+    "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
     "price": 156.23,
     "currency": "USD",
     "category": "Shoes",
-    "image": "/assets/products/shoe1.jpg",
+    "image": "./assets/products/shoe1.jpg",
     "in_stock": false,
     "rating": 4.4
   },
   {
     "id": 7,
     "name": "Wooden Modern Armchair",
-   "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
+    "description": "Comfortable modern shirt with a relaxed fit, perfect for casual outings.",
     "price": 190.48,
     "currency": "USD",
     "category": "Furniture",
-    "image": "/assets/products/shoe2.jpg",
+    "image": "./assets/products/shoe2.jpg",
     "in_stock": true,
     "rating": 4.2
   },
   {
     "id": 8,
     "name": "Luxury Upholstered Sofa",
-  "description": "Comfortable modern sofa with plush upholstery, perfect for living rooms.",
+    "description": "Comfortable modern sofa with plush upholstery, perfect for living rooms.",
     "price": 194.51,
     "currency": "USD",
     "category": "Furniture",
-    "image": "/assets/products/product_8.jpg",
+    "image": "./assets/products/product_8.jpg",
     "in_stock": false,
     "rating": 4.6
   },
@@ -96,194 +94,193 @@
     "price": 52.9,
     "currency": "USD",
     "category": "Clothing",
-    "image": "/assets/products/product_4.jpg",
+    "image": "./assets/products/product_4.jpg",
     "in_stock": true,
     "rating": 4.8
   },
   {
     "id": 10,
     "name": "Men's Formal Leather Shoes",
-"description": "Comfortable modern",
+    "description": "Comfortable modern",
     "price": 145.66,
     "currency": "USD",
     "category": "Shoes",
-    "image": "/assets/products/product_6.jpg",
+    "image": "./assets/products/product_6.jpg",
     "in_stock": false,
     "rating": 4.8
   },
   {
     "id": 11,
-    "image": "Ecommerce Website/img/product/0.png",
+    "image": "./Ecommerce-Website/img/product/0.png",
     "name": "SAMSUNG 55 Inch UHD 4K Smart TV With Receiver",
     "price": 350,
-    "category":"electronics"
-  },
-  {
-    "id": 13,
-    "image": "/Ecommerce Website/img/product/1.png",
-    "name": "Redmi 13C Dual SIM with 6GB RAM",
-    "price": 280,
-    "catetory":"mobiles"
+    "category": "electronics"
   },
   {
     "id": 12,
-    "image": "/Ecommerce Website/img/product/2.png",
-    "name": "Dell Laptop Latitude 5530 Core i7-1255U 8GB SSD",
-    "price": 400,
-    "category":"electronics"
+    "image": "./Ecommerce-Website/img/product/1.png",
+    "name": "Redmi 13C Dual SIM with 6GB RAM",
+    "price": 280,
+    "catetory": "mobiles"
   },
   {
     "id": 13,
-    "image": "/Ecommerce Website/img/product/3.png",
-    "name": "Canon EOS RP Mirrorless Camera",
-    "price": 530,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/2.png",
+    "name": "Dell Laptop Latitude 5530 Core i7-1255U 8GB SSD",
+    "price": 400,
+    "category": "electronics"
   },
   {
     "id": 14,
-    "image": "/Ecommerce Website/img/product/4.png",
-    "name": "OPPO A18 128GB 4GB Glowing Black",
-    "price": 250,
-    "catetory":"mobiles"
+    "image": "./Ecommerce-Website/img/product/3.png",
+    "name": "Canon EOS RP Mirrorless Camera",
+    "price": 530,
+    "catetory": "electronics"
   },
   {
     "id": 15,
-    "image": "/Ecommerce Website/img/product/5.png",
-    "name": "Samsung 27-Inch G55C Odyssey QHD 4k",
-    "price": 280,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/4.png",
+    "name": "OPPO A18 128GB 4GB Glowing Black",
+    "price": 250,
+    "catetory": "mobiles"
   },
   {
     "id": 16,
-    "image": "/Ecommerce Website/img/product/6.png",
-    "name": "Infinix Smart (Galaxy White, 4GB RAM, 64GB Storage)",
-    "price": 220,
-    "old_price": 300,
-    "catetory":"mobiles"
+    "image": "./Ecommerce-Website/img/product/5.png",
+    "name": "Samsung 27-Inch G55C Odyssey QHD 4k",
+    "price": 280,
+    "catetory": "electronics"
   },
   {
     "id": 17,
-    "image": "/Ecommerce Website/img/product/7.png",
-    "name": "HP Victus Gaming Laptop 8RAM SSD",
-    "price": 370,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/6.png",
+    "name": "Infinix Smart (Galaxy White, 4GB RAM, 64GB Storage)",
+    "price": 220,
+    "old_price": 300,
+    "catetory": "mobiles"
   },
   {
     "id": 18,
-    "image": "/Ecommerce Website/img/product/8.png",
-    "name": "Xiaomi Redmi 13C Dual SIM 8GB",
-    "price": 320,
-    "catetory":"mobiles"
+    "image": "./Ecommerce-Website/img/product/7.png",
+    "name": "HP Victus Gaming Laptop 8RAM SSD",
+    "price": 370,
+    "catetory": "electronics"
   },
   {
     "id": 19,
-    "image": "/Ecommerce Website/img/product/9.png",
-    "name": "Handheld Barcode Scanner 1D/2D/QR Code",
-    "price": 80,
-    "old_price": 100,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/8.png",
+    "name": "Xiaomi Redmi 13C Dual SIM 8GB",
+    "price": 320,
+    "catetory": "mobiles"
   },
   {
     "id": 20,
-    "image": "/Ecommerce Website/img/product/10.png",
-    "name": "Large Venue building mapping Projector",
-    "price": 300,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/9.png",
+    "name": "Handheld Barcode Scanner 1D/2D/QR Code",
+    "price": 80,
+    "old_price": 100,
+    "catetory": "electronics"
   },
   {
     "id": 21,
-    "image": "/Ecommerce Website/img/product/11.png",
+    "image": "./Ecommerce-Website/img/product/10.png",
+    "name": "Large Venue building mapping Projector",
+    "price": 300,
+    "catetory": "electronics"
+  },
+  {
+    "id": 22,
+    "image": "./Ecommerce-Website/img/product/11.png",
     "name": "Infinix Hot 40i (RAM: 4+4GB, 128GB)",
     "price": 260,
     "old_price": 300,
-    "catetory":"mobiles"
-  },
-  {
-    "id": 32,
-    "image": "/Ecommerce Website/img/product/12.png",
-    "name": "HP DeskJet 2710 Printer, All-in-One",
-    "price": 370,
-    "catetory":"electronics"
+    "catetory": "mobiles"
   },
   {
     "id": 23,
-    "image": "/Ecommerce Website/img/product/13.png",
-    "name": "Fuzzy Logic Rice Cooker DIGITAL-JAR 1.8L 940W – HD4515/67",
-    "price": 490,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/12.png",
+    "name": "HP DeskJet 2710 Printer, All-in-One",
+    "price": 370,
+    "catetory": "electronics"
   },
   {
     "id": 24,
-    "image": "/Ecommerce Website/img/product/14.png",
-    "name": "Sencor STS 5070SS Electric Toaster for Four Slices",
-    "price": 340,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/13.png",
+    "name": "Fuzzy Logic Rice Cooker DIGITAL-JAR 1.8L 940W – HD4515/67",
+    "price": 490,
+    "catetory": "appliances"
   },
   {
     "id": 25,
-    "image": "/Ecommerce Website/img/product/15.png",
-    "name": "Infinix Smart 6 Plus (Miracle Black)",
-    "price": 240,
-    "old_price": 300,
-    "catetory":"mobiles"
+    "image": "./Ecommerce-Website/img/product/14.png",
+    "name": "Sencor STS 5070SS Electric Toaster for Four Slices",
+    "price": 340,
+    "catetory": "appliances"
   },
   {
     "id": 26,
-    "image": "/Ecommerce Website/img/product/16.png",
-    "name": "Washing Machine 959 Series 8kg Senator Aqua SX, Silver",
-    "price": 600,
-    "old_price": 700,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/15.png",
+    "name": "Infinix Smart 6 Plus (Miracle Black)",
+    "price": 240,
+    "old_price": 300,
+    "catetory": "mobiles"
   },
   {
     "id": 27,
-    "image": "/Ecommerce Website/img/product/17.png",
-    "name": "HIKVISION PTZ Camera 4K Outdoo",
-    "price": 185,
-    "catetory":"electronics"
+    "image": "./Ecommerce-Website/img/product/16.png",
+    "name": "Washing Machine 959 Series 8kg Senator Aqua SX, Silver",
+    "price": 600,
+    "old_price": 700,
+    "catetory": "appliances"
   },
   {
     "id": 28,
-    "image": "/Ecommerce Website/img/product/18.png",
-    "name": "OPPO Reno11 5G 256GB 12GB",
-    "price": 225,
-    "catetory":"mobiles"
+    "image": "./Ecommerce-Website/img/product/17.png",
+    "name": "HIKVISION PTZ Camera 4K Outdoo",
+    "price": 185,
+    "catetory": "electronics"
   },
   {
     "id": 29,
-    "image": "/Ecommerce Website/img/product/19.png",
-    "name": "VIVAX kettle WH-175L with a capacity of 1.7 ",
-    "price": 140,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/18.png",
+    "name": "OPPO Reno11 5G 256GB 12GB",
+    "price": 225,
+    "catetory": "mobiles"
   },
   {
     "id": 30,
-    "image": "/Ecommerce Website/img/product/20.png",
-    "name": "Kenstar Ester ABS Plastic 750W Mixer Grinder",
-    "price": 280,
-    "old_price": 330,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/19.png",
+    "name": "VIVAX kettle WH-175L with a capacity of 1.7 ",
+    "price": 140,
+    "catetory": "appliances"
   },
   {
     "id": 31,
-    "image": "/Ecommerce Website/img/product/21.png",
-    "name": "Multifunctional Food Processor",
-    "price": 350,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/20.png",
+    "name": "Kenstar Ester ABS Plastic 750W Mixer Grinder",
+    "price": 280,
+    "old_price": 330,
+    "catetory": "appliances"
   },
   {
     "id": 32,
-    "image": "/Ecommerce Website/img/product/22.png",
-    "name": "Zanussi Washing Machine 8 Kg 1200 RPM ",
-    "price": 580,
-    "catetory":"appliances"
+    "image": "./Ecommerce-Website/img/product/21.png",
+    "name": "Multifunctional Food Processor",
+    "price": 350,
+    "catetory": "appliances"
   },
   {
     "id": 33,
-    "image": "/Ecommerce Website/img/product/23.png",
+    "image": "./Ecommerce-Website/img/product/22.png",
+    "name": "Zanussi Washing Machine 8 Kg 1200 RPM ",
+    "price": 580,
+    "catetory": "appliances"
+  },
+  {
+    "id": 34,
+    "image": "./Ecommerce-Website/img/product/23.png",
     "name": "Sharp 42 Lt Electronic Oven Convection",
     "price": 400,
-    "catetory":"appliances"
+    "catetory": "appliances"
   }
-
 ]
