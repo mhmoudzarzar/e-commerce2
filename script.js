@@ -11,7 +11,7 @@ cart.getTotal();
 /////////////////////////////////////////////
 export class Fetching {
   constructor() {
-    this.url = 'Ecommerce Website/newProduct.json';
+    this.url = 'newProduct.json';
   }
 
   async cashing() {
